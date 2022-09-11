@@ -4,8 +4,6 @@ I'm Automation Test Engineer. My Linkedin profile: https://www.linkedin.com/in/o
 
 - 🔭 I’m currently working in Deutsche Telekom IT RUS (Web Test Automation).
 
-- 🌱 I’m currently learning API Test Automation.
-
 - 📫 How to reach me: 
 telegram - @slazarska, 
 email - slazarska@protonmail.com
