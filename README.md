@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Automation Test Engineer. My Linkedin profile: https://www.linkedin.com/in/olga-slazarska/
+I'm Test Automation Engineer in Telecom. My Linkedin profile: https://www.linkedin.com/in/olga-slazarska/
 
 - 🔭 I’m currently working in Deutsche Telekom IT RUS (Web Test Automation).
 
