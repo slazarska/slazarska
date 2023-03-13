@@ -28,7 +28,7 @@ My cv:
 <img src="https://github.com/slazarska/slazarska/blob/main/img/pycharm-svgrepo-com.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Gradle.png" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-<img src="hhttps://github.com/slazarska/slazarska/blob/main/img/maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+<img src="https://github.com/slazarska/slazarska/blob/main/img/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Allure_Report.png" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/AllureTestOps.png" title="AllureTestOps" alt="AllureTestOps" width="40" height="40"/>&nbsp;
 </div>
