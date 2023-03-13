@@ -15,3 +15,6 @@ My Linkedin profile: https://www.linkedin.com/in/olga-slazarska/
 My career.habr profile:
 
 My cv:
+
+## Languages & Tools:
+
