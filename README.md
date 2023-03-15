@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Test Engineer.
+I'm Full Stack Test Engineer (manual and automated QA).
 
 I have more than 6 years of experience in Quality Assurance:
 
