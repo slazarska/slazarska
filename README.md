@@ -16,7 +16,25 @@ My career.habr profile:
 
 My cv:
 
-### Languages & Tools:
+### Всем привет 👋
+
+Я - Full Stack Test Engineer (мануальное тестирование и автоматизация тестирования).
+
+У меня более 6 лет опыта в тестировании:
+
+ :small_blue_diamond: 3 года опыта тестирования в систем-тесте эйтерпрайз системы, 
+ 
+ :small_blue_diamond: 2 года опыта в E2E тестирования веб-приложения (front-end and back-end), 
+ 
+ :small_blue_diamond: 2 года опыта автоматизации тестирования веб-сервиса (стэк: Java, Selenide).
+
+Мое резюме на hh: 
+
+Мой профиль на career.habr:
+
+Мое резюме:
+
+### Languages & Tools / Языки и инструменты:
 <div>
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Java.jpg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
