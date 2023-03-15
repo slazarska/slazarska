@@ -18,7 +18,7 @@ My cv:
 
 ### Languages & Tools:
 <div>
-<img src="https://github.com/slazarska/slazarska/blob/main/img/Java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/slazarska/slazarska/blob/main/img/java-icon.jpg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Selenide.png" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
