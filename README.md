@@ -24,7 +24,7 @@ My cv:
 <img src="https://github.com/slazarska/slazarska/blob/main/img/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/JUnit5.png" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-<img src="https://github.com/slazarska/slazarska/blob/main/img/Intelij_IDEA.png" title="Intelij IDEA" alt="Intelij IDEA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/slazarska/slazarska/blob/main/img/IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/pycharm-svgrepo-com.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Gradle.png" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
