@@ -1,32 +1,30 @@
 ### Hi there 👋
 
-I'm Full Stack Test Engineer (manual and automated QA).
+I'm Full-stack QA Engineer (manual and automated QA).
 
 I have more than 6 years of experience in Quality Assurance:
 
- :small_blue_diamond: 3 years of experience in system testing of an enterprise system, 
+ :small_blue_diamond: 3 years of experience in system testing of a telecom enterprise system, 
  
  :small_blue_diamond: 2 years of experience in E2E integration testing of a web application (front-end and back-end), 
  
  :small_blue_diamond: 2 years of experience in Test Automation (Java, Selenide).
 
-My Linkedin profile: https://www.linkedin.com/in/olga-slazarska/
-
-My career.habr profile:
+My LinkedIn profile: https://www.linkedin.com/in/olga-slazarska/
 
 My cv:
 
 ### Всем привет 👋
 
-Я - Full Stack Test Engineer (мануальное тестирование и автоматизация тестирования).
+Я - Full-stack QA инженер (мануальное тестирование и автоматизация тестирования).
 
 У меня более 6 лет опыта в тестировании:
 
- :small_blue_diamond: 3 года опыта тестирования в систем-тесте эйтерпрайз системы, 
+ :small_blue_diamond: 3 года опыта тестирования телеком эйтерпрайз системы, 
  
- :small_blue_diamond: 2 года опыта в E2E тестирования веб-приложения (front-end and back-end), 
+ :small_blue_diamond: 2 года опыта в E2E тестировании веб-приложения (front-end и back-end), 
  
- :small_blue_diamond: 2 года опыта автоматизации тестирования веб-сервиса (стэк: Java, Selenide).
+ :small_blue_diamond: 2 года опыта автоматизации тестирования веб-сервиса (Java, Selenide).
 
 Мое резюме на hh: 
 
