@@ -49,3 +49,5 @@ My cv:
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Allure_Report.png" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/AllureTestOps.png" title="AllureTestOps" alt="AllureTestOps" width="40" height="40"/>&nbsp;
 </div>
+
+![Viewers](https://gpvc.arturio.dev/slazarska)
