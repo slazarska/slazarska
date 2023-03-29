@@ -14,6 +14,7 @@ My LinkedIn profile: https://www.linkedin.com/in/olga-slazarska/
 
 My cv:
 
+---
 ### Всем привет 👋
 
 Я - Full-stack QA инженер (мануальное тестирование и автоматизация тестирования).
@@ -32,6 +33,7 @@ My cv:
 
 Мое резюме:
 
+---
 ### Languages & Tools / Языки и инструменты:
 <div>
 <img src="https://github.com/slazarska/slazarska/blob/main/img/java-logo.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -51,5 +53,4 @@ My cv:
 </div>
 
 ---
-
 ![Viewers](https://gpvc.arturio.dev/slazarska)
