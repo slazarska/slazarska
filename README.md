@@ -29,7 +29,7 @@ My cv:
 
 Мое резюме на hh: 
 
-Мой профиль на career.habr: https://career.habr.com/slazarska
+<a target="_blank" href="https://career.habr.com/slazarska">Мой профиль на career.habr</a><br/>
 
 Мое резюме:
 
