@@ -10,7 +10,7 @@ I have more than 6 years of experience in Quality Assurance:
  
  :small_blue_diamond: 2 years of experience in Test Automation (Java, Selenide).
 
-My LinkedIn profile: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-slazarska)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-slazarska)
 
 My cv:
 
