@@ -12,8 +12,6 @@ I have more than 6 years of experience in Quality Assurance:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-slazarska)
 
-My cv:
-
 ---
 ### Всем привет 👋
 
@@ -27,11 +25,7 @@ My cv:
  
  :small_blue_diamond: 2 года опыта автоматизации тестирования веб-сервиса (Java, Selenide).
 
-Мое резюме на hh: 
-
 <a target="_blank" href="https://career.habr.com/slazarska">Мой профиль на career.habr</a><br/>
-
-Мое резюме:
 
 ---
 ### Languages & Tools / Языки и инструменты:
@@ -51,6 +45,11 @@ My cv:
 <img src="https://github.com/slazarska/slazarska/blob/main/img/Allure_Report.png" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
 <img src="https://github.com/slazarska/slazarska/blob/main/img/AllureTestOps.png" title="AllureTestOps" alt="AllureTestOps" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### Project examples / Примеры работ:
+| <a target="_blank" href="https://github.com/slazarska/homeless_test_python">UI autotests example</a>  | <a target="_blank" href= "https://github.com/slazarska/petstore_api_test">API autotests example</a> | <a target="_blank" href= "https://github.com/slazarska/spelly_mobile_test">Mobile autotests example</a> |
+|----------------|---------------|---------------|
 
 ---
 ![Viewers](https://gpvc.arturio.dev/slazarska)
