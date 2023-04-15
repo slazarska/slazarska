@@ -2,7 +2,7 @@
 
 I'm Full-stack QA Engineer (manual and automated QA).
 
-I have more than 6 years of experience in Quality Assurance:
+I have 7 years of experience in Quality Assurance:
 
  :small_blue_diamond: 3 years of experience in system testing of a telecom enterprise system, 
  
@@ -17,7 +17,7 @@ I have more than 6 years of experience in Quality Assurance:
 
 Я - Full-stack QA инженер (мануальное тестирование и автоматизация тестирования).
 
-У меня более 6 лет опыта в тестировании:
+У меня 7 лет опыта в тестировании:
 
  :small_blue_diamond: 3 года опыта тестирования телеком эйтерпрайз системы, 
  
