@@ -50,6 +50,3 @@ I have 7 years of experience in Quality Assurance:
 ### Project examples / Примеры работ:
 | <a target="_blank" href="https://github.com/slazarska/homeless_test_python">UI autotests example(python, rus) </a> | <a target="_blank" href= "https://github.com/slazarska/petstore_api_test">API autotests example(python, eng)</a> | <a target="_blank" href= "https://github.com/slazarska/spelly_mobile_test">Mobile autotests example(python, eng)</a> |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-
----
-![Viewers](https://gpvc.arturio.dev/slazarska)
