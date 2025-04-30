@@ -22,4 +22,4 @@
 📫 **Контакты**  
 - 📧 Email: [slazarska@protonmail.com](mailto:slazarska@protonmail.com)  
 - 💬 Telegram: [@slazarska](https://t.me/slazarska)  
-- 💼 [LinkedIn](https://linkedin.com/in/slazarska)
+- 💼 [LinkedIn](https://www.linkedin.com/in/olga-slazarska/)
