@@ -10,7 +10,7 @@
  
  :small_blue_diamond: 2 года опыта автоматизации тестирования веб-сервиса (Java, Selenide),
 
- :small_blue_diamond: год опыта автоматизации тестирования веб-сервиса (Python, Go),
+ :small_blue_diamond: год опыта автоматизации тестирования веб-сервиса (Python, Go).
  
 ---
 ### Languages & Tools / Языки и инструменты:
