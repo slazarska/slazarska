@@ -21,5 +21,5 @@
 
 📫 **Контакты**  
 - 📧 Email: [slazarska@protonmail.com](mailto:slazarska@protonmail.com)  
-- 💬 Telegram: [@slazarska](https://t.me/slazarska)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="15"/> Telegram: [@slazarska](https://t.me/slazarska)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/olga-slazarska/)
